@@ -4,7 +4,7 @@ title:  "Definiciones y objetivos de la ingeniería de software"
 date:   2020-07-06 13:0:24 -0500
 author: Tomas Vargas
 categories: software
-permalink: /Definiciones
+permalink: /insoft/Definiciones
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
 <h1>INGENIERÍA DE SOFTWARE</h1>
