@@ -19,7 +19,7 @@ permalink: /info/
     i{
         color:#2980b9;
     }
-    a:visited{
+    .aa:visited{
         color:#2980b9;
 
     }
@@ -49,8 +49,8 @@ permalink: /info/
     <br>
 
     <h3>Lins</h3>
-    <a href="http://www.ug.edu.ec/"><i class="fas fa-university"></i> Universidad de Guayaquil</a><br>
-    <a href="https://github.com/tomvargas"><i class="fab fa-github"></i> Mi perfil de Github</a>
+    <a class="aa" href="http://www.ug.edu.ec/"><i class="fas fa-university"></i> Universidad de Guayaquil</a><br>
+    <a class="aa" href="https://github.com/tomvargas"><i class="fab fa-github"></i> Mi perfil de Github</a>
     
 
 </div>
