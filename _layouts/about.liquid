@@ -123,13 +123,13 @@ layout: plugins/compress
                         <a href="{{ site.baseurl }}/{% if site_lang != lang %}{{ lang }}/{% endif %}"><img src="../assets/logo.png" class="logo" alt="{{ site.title }}"> {{ site.title }}</a>
                     {% endif %}
                     <div role="search">
-                        <form id="rtd-search-form" class="wy-form" action="{{ site.baseurl }}/search.html" method="get" autocomplete="off">
+                        <form id="rtd-search-form" class="wy-form" action="{{ site.baseurl }}/insoft/search.html" method="get" autocomplete="on">
                             <input type="text" name="q" placeholder="{{ __ }}Buscar...">
                             <input type="hidden" name="lang" value="{{ lang }}">
                         </form>
                     </div>
                 </div>
-                <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation"><a href="{{ site.baseurl }}/about">ABOUT</a></div>
+                <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation"><a href="{{ site.baseurl }}/insoft/about">ABOUT</a></div>
                 {%- if site.embed -%}
                     <div class="wy-embed-wrap"><div class="wy-embed">{{ site.embed }}</div></div>
                 {%- endif -%}
