@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Ultimos temas
+
 ---
-<h1>HOLA</h1>
+<h1>MATERIAL ACADEMICO PARA LA INGENIERIA DE SOFTWARE</h1>
+   
