@@ -48,9 +48,8 @@ permalink: /info/
     <hr>
     <br>
 
-    <h3>Lins</h3>
+    <h3>Links</h3>
     <a class="aa" href="http://www.ug.edu.ec/"><i class="fas fa-university"></i> Universidad de Guayaquil</a><br>
     <a class="aa" href="https://github.com/tomvargas"><i class="fab fa-github"></i> Mi perfil de Github</a>
-    
 
 </div>
