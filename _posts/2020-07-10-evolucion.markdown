@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Definiciones y objetivos de la ingeniería de software"
-date:   2020-07-06 13:0:24 -0500
+title:  "Evolucion y crisis del software"
+date:   2020-07-10 14:0:14 -0500
 author: Tomas Vargas
-permalink: /definiciones
+permalink: /evolucion-y-crisis
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
 <h1>INGENIERÍA DE SOFTWARE</h1>

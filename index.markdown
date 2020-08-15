@@ -5,5 +5,7 @@
 layout: home
 
 ---
-<h1>MATERIAL ACADEMICO PARA LA INGENIERIA DE SOFTWARE</h1>
+<script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
+<h1><i style="color:#2980b9" class="far fa-bookmark"></i> MATERIAL ACADEMICO PARA LA INGENIERIA DE SOFTWARE</h1>
+<hr>
    
