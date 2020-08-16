@@ -6,6 +6,8 @@ author: Tomas Vargas
 permalink: /posts/procesos
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
+Publicado por: [Tomas Vargas][gh] 
+
 <h1>INGENIERÍA DE SOFTWARE</h1>
 <H2>Objetivos del área</H2>
 * Definir la ingeniería de software explicando la importancia que tiene

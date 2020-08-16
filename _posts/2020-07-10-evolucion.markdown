@@ -6,6 +6,7 @@ author: Tomas Vargas
 permalink: /posts/evolucion-y-crisis
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
+Publicado por: [Tomas Vargas][gh] 
 <h1>LA EVOLUCIÓN DEL SOFTWARE</h1><hr>
 <p>En la actualidad el software esta casi en todos lados, en los televisores, los celulres, las computadoras e incluso en las refrigerdoras
     existe software integrado, es muy dificil imaginar que un dia los programas no eran más que una idea, <strong>Alan Turing</strong> es atribuido por ser la primera persona en llegar a la
@@ -62,3 +63,4 @@ permalink: /posts/evolucion-y-crisis
 <h4>Sigueme en <a href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
 
 [f1]: https://www.esunix.es/index.php/novato/software/historia-del-software
+[gh]: https://github.com/tomvargas
