@@ -63,8 +63,11 @@ Publicado por: [Tomas Vargas][gh]
 
 <hr>
 <h3>Fuentes</h3>
+
 * esunix.es, [Historia del software][f1].
-* Angel Ortega, Material de clases.
+
+* Angel Ortega, Material de clases. 
+
 <hr>
 <h4>Sigueme en <a href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
 
