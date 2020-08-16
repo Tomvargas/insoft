@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: insoft/info/
+permalink: /insoft/info
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
 <style>
