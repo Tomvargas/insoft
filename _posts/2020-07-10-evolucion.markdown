@@ -50,10 +50,15 @@ Publicado por: [Tomas Vargas][gh]
 * Poca comunicación con el cliente
 
 <p>Cualquiera de estos problemas puede presentar entre otras cosas: </p>
+
 * Retrasos de entrega
+
 * Coste excesivo 
+
 * Ineficiencia
+
 * Mantenimiento problemático
+
 
 
 <hr>
