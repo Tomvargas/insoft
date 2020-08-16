@@ -123,8 +123,8 @@ layout: plugins/compress
                         <a href="{{ site.baseurl }}" ><img src="https://raw.githubusercontent.com/Tomvargas/insoft/master/assets/logo.png" class="logo" alt="{{ site.title }}"> {{ site.title }}</a>
                     {% endif %}
                     <div role="search">
-                        <form id="rtd-search-form" class="wy-form" action="{{ site.baseurl }}/insoft/search.html" method="get" autocomplete="off">
-                            <input type="text" name="q" placeholder="{{ __search_docs }}...">
+                        <form id="rtd-search-form" class="wy-form" action="{{ site.baseurl }}/search.html" method="get" autocomplete="off">
+                            <input type="text" name="q" placeholder="Buscar...">
                             <input type="hidden" name="lang" value="{{ lang }}">
                         </form>
                     </div>
@@ -140,7 +140,7 @@ layout: plugins/compress
             <!-- MOBILE NAV -->
             <nav class="wy-nav-top" aria-label="top navigation">
                 <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-                <a href="{{ site.baseurl }}/{% if site_lang != lang %}{{ lang }}/{% endif %}">{{ site.title }}</a>
+                <a href="{{ site.baseurl }}/{% if site_lang != lang %}{{ lang }}/{% endif %}"><strong>{{ site.title }}</strong></a>
             </nav>
             <div class="wy-nav-content">
                 <div class="rst-content">
