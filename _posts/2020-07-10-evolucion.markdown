@@ -9,27 +9,28 @@ permalink: /posts/evolucion-y-crisis
 Publicado por: [Tomas Vargas][gh] 
 <h1>LA EVOLUCIÓN DEL SOFTWARE</h1><hr>
 <p>En la actualidad el software esta casi en todos lados, en los televisores, los celulres, las computadoras e incluso en las refrigerdoras
-    existe software integrado, es muy dificil imaginar que un dia los programas no eran más que una idea, <strong>Alan Turing</strong> es atribuido por ser la primera persona en llegar a la
+    existe software integrado, es muy dificil imaginar que un día los programas no eran más que una idea, <strong>Alan Turing</strong> es atribuido por ser la primera persona en llegar a la
     teoría, esto orientó a llevar dos campos académicos que son la ciencia informática y la ingeniería de software.
 </p>
 <h3>Primeros años del software</h3><hr>
 <p>Claude shannon llevó a cabo un manuscrito titulado "Una teoría matemática de la computación", donde pudo esquematizar como
-    la lógica binaria podría ser implementada pra programar un ordenador, luego de eso se pudieron ver programadores utilizando código binario para desarrollar lo que viene a ser los primeros 
-    softwares, sin embargo, el proceso pra esto fué demaciado arduo ya que para crear un programa debian introducir largas cadenas de código.
+    la lógica binaria podría ser implementada para programar un ordenador, luego de eso se pudieron ver programadores utilizando código binario para desarrollar lo que viene a ser los primeros 
+    softwares, sin embargo, el proceso para esto fué demaciado arduo ya que para crear un programa debían introducir largas cadenas de código.
 </p>
 <p>Cuando por primera vez un ordenador fué capaz de sostener un software en una memoria electrónica y se ejecuto con éxito, era 21 de julio de 1948 en la universidad de Manchester. Este programa fue escrito por
-    Tom Kaliburn y era capaz de calcular el factor más alto de un número entero y apartir de un gran divisor de pureba podia realizar la división de <strong>262.144</strong> por sustrcción repetida y luego
-    comprobaba si el restante era cero, de lo contrario sedecrementaba el divisor de prueba por uno y se repetia el proceso.
+    Tom Kaliburn y era capaz de calcular el factor más alto de un número entero y apartir de un gran divisor de prueba, podía realizar la división de <strong>262.144</strong> por sustrcción repetida y luego
+    comprobaba si el restante era cero, de lo contrario se decrementaba el divisor de prueba por uno y se repetía el proceso.
      </p>
 <h3>Implementación del software con el hardware</h3><hr>
-<p>Luego de que se desarrollara los primeros softwares, se empezo a comercializar por parte de los fabricantes de equipos originales, estos equipos ya contaban con el hardware y el software correspondiente,
-    cuando uno de muchos clientes adquirió un mini ordenador, siendo este el equipo más pequeño del mercado, no vino con un software asociado, es decir solo el hardware, lo que requería que se instale por mediode ingenieros empleados por el OEM.
+<p>Luego de que se desarrollara los primeros softwares, se empezó a comercializar por parte de los fabricantes de equipos originales, estos equipos ya contaban con el hardware y el software correspondiente
+,
+    cuando uno de muchos clientes adquirió un mini ordenador, siendo este el equipo más pequeño del mercado, no vino con un software asociado, es decir solo el hardware, lo que requería que se instale por medio de ingenieros empleados por el OEM.
 </p>
-<p>Al poco tiempo los softwares comenzaron a ser pirateados y se vió el disgusto por parte de los desarrolladores originales, uno de los moralistas contra la pirateria era <strong>Bill Gates</strong> con su carta abierta a los aficionados en 1976.</p>
+<p>Al poco tiempo los softwares comenzaron a ser pirateados y se vió el disgusto por parte de los desarrolladores originales, uno de los moralistas contra la piratería era <strong>Bill Gates</strong> con su carta abierta a los aficionados en 1976.</p>
 
 <h3>Unix</h3>
 <hr>
-<p>En su momento Unix fue un sistema operativo temprano que llegó a ser muy influyente, se puede encontrar actualmenteen variantes como MacOS y con Linux que esta estrechamente relaciondo con Unix.</p>
+<p>En su momento Unix fue un sistema operativo temprano que llegó a ser muy influyente, se puede encontrar actualmente en variantes como MacOS y con Linux que esta estrechamente relaciondo con Unix.</p>
 
 <h3>Actualidad</h3>
 <hr>
@@ -39,7 +40,7 @@ Publicado por: [Tomas Vargas][gh]
 
 <h1>Crisis del Software</h1>
 <hr>
-<p>En la actualidad los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito. Existen varios desafíos que consisten en resolver problemas como problemas en el desarrollo de software
+<p>En la actualidad teniendo en cuenta los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito. Existen varios desafíos que consisten en resolver problemas como inconvenientes en el desarrollo de software
     que pueden ser: 
 </p>
 * Incapacidades para estimar tiempo, costo o esfuerzo para desarrollar el software
@@ -50,7 +51,7 @@ Publicado por: [Tomas Vargas][gh]
 
 <p>Cualquiera de estos problemas puede presentar entre otras cosas: </p>
 * Retrasos de entrega
-* Coste exesivo
+* Coste excesivo 
 * Ineficiencia
 * Mantenimiento problemático
 
