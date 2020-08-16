@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<style>
+  .aa:visited{
+    color:#2980b9;
+  }
+</style>
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -26,7 +31,7 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link aa" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
