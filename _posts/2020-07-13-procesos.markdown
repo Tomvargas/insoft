@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Definiciones y objetivos de la ingeniería de software"
-date:   2020-07-06 13:0:24 -0500
+title:  "Procesos de la ingeniería de software"
+date:   2020-07-13 12:0:54 -0500
 author: Tomas Vargas
-permalink: /posts/definiciones
+permalink: /posts/procesos
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
 <h1>INGENIERÍA DE SOFTWARE</h1>
@@ -25,6 +25,7 @@ permalink: /posts/definiciones
 <p>Es una disiplina de la ingeniería que abarca cada aspecto en cuanto al desarrollo de software, los ingenieros de software saben que para ser un buen profesional deben:</p>
 * Adoptar un enfoque sistemático para llevar a cabo su trabajo
 * Utilizar las herramientas y técnicas apropiadas para resolver un problema planteado, todo esto de a cuerdo con las restricciones de desarrollo y recursos disponibles.
+
 
 <hr>
 <h3>Fuente</h3>

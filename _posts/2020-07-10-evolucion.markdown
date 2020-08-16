@@ -6,29 +6,59 @@ author: Tomas Vargas
 permalink: /posts/evolucion-y-crisis
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
-<h1>INGENIERÍA DE SOFTWARE</h1>
-<H2>Objetivos del área</H2>
-* Definir la ingeniería de software explicando la importancia que tiene
-* Exponer conceptos entre el producto de software y el proceso de este
-* Crear una nocion de responsabilidad profecional
-<p>La economía de los píses desarrollados es dependiente del software, en l actualidad los sistemasson controlados por softwres cada vex más.</p>
-<p>Existen teorías, métodos y herrmientas para el desarrollo profesional del software y el gasto en la industria representa un alto porcentaje del PBI (producto interno bruto) de los países mas desarrollados.</p>
+<h1>LA EVOLUCIÓN DEL SOFTWARE</h1><hr>
+<p>En la actualidad el software esta casi en todos lados, en los televisores, los celulres, las computadoras e incluso en las refrigerdoras
+    existe software integrado, es muy dificil imaginar que un dia los programas no eran más que una idea, <strong>Alan Turing</strong> es atribuido por ser la primera persona en llegar a la
+    teoría, esto orientó a llevar dos campos académicos que son la ciencia informática y la ingeniería de software.
+</p>
+<h3>Primeros años del software</h3><hr>
+<p>Claude shannon llevó a cabo un manuscrito titulado "Una teoría matemática de la computación", donde pudo esquematizar como
+    la lógica binaria podría ser implementada pra programar un ordenador, luego de eso se pudieron ver programadores utilizando código binario para desarrollar lo que viene a ser los primeros 
+    softwares, sin embargo, el proceso pra esto fué demaciado arduo ya que para crear un programa debian introducir largas cadenas de código.
+</p>
+<p>Cuando por primera vez un ordenador fué capaz de sostener un software en una memoria electrónica y se ejecuto con éxito, era 21 de julio de 1948 en la universidad de Manchester. Este programa fue escrito por
+    Tom Kaliburn y era capaz de calcular el factor más alto de un número entero y apartir de un gran divisor de pureba podia realizar la división de <strong>262.144</strong> por sustrcción repetida y luego
+    comprobaba si el restante era cero, de lo contrario sedecrementaba el divisor de prueba por uno y se repetia el proceso.
+     </p>
+<h3>Implementación del software con el hardware</h3><hr>
+<p>Luego de que se desarrollara los primeros softwares, se empezo a comercializar por parte de los fabricantes de equipos originales, estos equipos ya contaban con el hardware y el software correspondiente,
+    cuando uno de muchos clientes adquirió un mini ordenador, siendo este el equipo más pequeño del mercado, no vino con un software asociado, es decir solo el hardware, lo que requería que se instale por mediode ingenieros empleados por el OEM.
+</p>
+<p>Al poco tiempo los softwares comenzaron a ser pirateados y se vió el disgusto por parte de los desarrolladores originales, uno de los moralistas contra la pirateria era <strong>Bill Gates</strong> con su carta abierta a los aficionados en 1976.</p>
 
-<h2>Primero, ¿Qué es software?</h2>
-<p>Quiza todos lo sepan y es que es algo muy influyente en la actualidad, estos son todos los progrmas de cómputo y toda su documentción asociada, esto comprende principalmente a los equerimientos, modelos de diseño y manuales de usuario.</p>
-<p>Estos pueden ser desarrollados para un cliente en específico o para un mercado generalmente, por ello se denomina en dos tipos:</p>
-* **Software genérico:** Se desarrolla para ser vendido a multiples clientes como Word, Google chrome, etc.
-* **Software a medida:** Se desarrolla bajo demanda de un cliente.
-<p>El software nuevo puede ser creado desarrollando nuevos programas, configurando sistemas de software genérico o reutilizando software existente.</p>
+<h3>Unix</h3>
+<hr>
+<p>En su momento Unix fue un sistema operativo temprano que llegó a ser muy influyente, se puede encontrar actualmenteen variantes como MacOS y con Linux que esta estrechamente relaciondo con Unix.</p>
 
-<h2>¿Qué es ingeniería de software?</h2>
-<p>Es una disiplina de la ingeniería que abarca cada aspecto en cuanto al desarrollo de software, los ingenieros de software saben que para ser un buen profesional deben:</p>
-* Adoptar un enfoque sistemático para llevar a cabo su trabajo
-* Utilizar las herramientas y técnicas apropiadas para resolver un problema planteado, todo esto de a cuerdo con las restricciones de desarrollo y recursos disponibles.
+<h3>Actualidad</h3>
+<hr>
+<p>Por mediados de 1980, el software de ordenadores personales vendía miles de copias de entre $50 y $700, Las empresaa como Microsoft, MicroPro y Lotus Development tuvieron millones de 
+    dólares en ventas anuales. Esta industra fué creciendo hasta la actualidad desde el momento clave de la historia, donde <strong>Philip Don Estridge</strong>, empleado de IBM quien publicó las especificaciones de la IBM Personal Computer.
+</p>
 
-<h3>Fuente</h3>
-* Dr. Tello, [Conceptos básicos de ingeniería de software][f1].
+<h1>Crisis del Software</h1>
+<hr>
+<p>En la actualidad los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito. Existen varios desafíos que consisten en resolver problemas como problemas en el desarrollo de software
+    que pueden ser: 
+</p>
+* Incapacidades para estimar tiempo, costo o esfuerzo para desarrollar el software
+* Falta de calidad del producto final
+* Desactualizaciones por mejoras de hardware o usabilidad
+* Mala administración de tiempo para el desarrollo
+* Poca comunicación con el cliente
+
+<p>Cualquiera de estos problemas puede presentar entre otras cosas: </p>
+* Retrasos de entrega
+* Coste exesivo
+* Ineficiencia
+* Mantenimiento problemático
+
+
+<hr>
+<h3>Fuentes</h3>
+* esunix.es, [Historia del software][f1].
+* Angel Ortega, Material de clases.
 <hr>
 <h4>Sigueme en <a href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
 
-[f1]: https://www.tamps.cinvestav.mx/~ertello/swe/sesion01.pdf
+[f1]: https://www.esunix.es/index.php/novato/software/historia-del-software
