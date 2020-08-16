@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Definiciones y objetivos de la ingeniería de software"
 date:   2020-07-06 13:0:24 -0500
 author: Tomas Vargas

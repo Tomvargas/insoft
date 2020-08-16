@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Evolucion y crisis del software"
 date:   2020-07-10 14:0:14 -0500
 author: Tomas Vargas
