@@ -1,39 +1,97 @@
 ---
 layout: default
-title:  "Procesos de la ingeniería de software"
+title:  "Ciclo de vida del software"
 date:   2020-07-13 12:0:54 -0500
 author: Tomas Vargas
-permalink: /posts/procesos
+permalink: /posts/vida-software
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
 Publicado por: [Tomas Vargas][gh] 
 
-<h1>INGENIERÍA DE SOFTWARE</h1>
-<H2>Objetivos del área</H2>
-* Definir la ingeniería de software explicando la importancia que tiene
-* Exponer conceptos entre el producto de software y el proceso de este
-* Crear una nocion de responsabilidad profecional
-<p>La economía de los píses desarrollados es dependiente del software, en l actualidad los sistemasson controlados por softwres cada vex más.</p>
-<p>Existen teorías, métodos y herrmientas para el desarrollo profesional del software y el gasto en la industria representa un alto porcentaje del PBI (producto interno bruto) de los países mas desarrollados.</p>
+<h1>CICLO DE VIDA DEL SOFTWARE</h1>
+<hr>
+<p>Es importante conocer la teoría de cada cosa, pues incluso un programa de computación con sus debidos márgenes de
+calidad o usabilidad posee su respectiva documentación que en este caso vendría a ser la parte teórica donde muestran
+las funciones del software evaluado, como usarlo, recomendaciones para los usuarios y aun más cosas que sirven de guía
+para el usuario.</p>
+<hr>
+<h2>Atajos</h2>
+<p> <a href="#cic">> Ciclo de vida del software</a></p>
+<p> <a href="#proc">> Procesos</a  ></p>
+<hr>
+<p>Actualmente en las carreras relacionadas al desarrollo de software, la mayoría de estudiantes que piensan crear un
+programa creen que programarlo basta para culminar el proyecto propuesto, sin embargo todo tiene su evaluación con
+respecto a la calidad, es importante saber y entender que para desarrollar un software requiere más que una simple idea,
+para esto se debe tener en cuenta un estudio de los usuarios con respecto a la usabilidad del software, es decir
+analizar la demanda del servicio que ofrecerá el programa y en base a eso innovar para crear más impacto social dejando
+atrás posibles competencias, siendo todo esto un solo punto a tener en cuenta para desarrollar un programa de calidad se
+sobreentiende la importancia que tiene seguir el ciclo de vida del software.</p>
+<p>Al momento de comenzar todo el proceso de desarrollo del software se debe tener en cuenta que pueden suceder muchos
+inconvenientes y más que saber cómo resolverlos es esencial saber como llevar a cabo el proyecto escogiendo un método
+que mas le convenga al software, de esa manera reducir los problemas futuros que se pueda presentar durante el
+desarrollo.</p>
 
-<h2>Primero, ¿Qué es software?</h2>
-<p>Quiza todos lo sepan y es que es algo muy influyente en la actualidad, estos son todos los progrmas de cómputo y toda su documentción asociada, esto comprende principalmente a los equerimientos, modelos de diseño y manuales de usuario.</p>
-<p>Estos pueden ser desarrollados para un cliente en específico o para un mercado generalmente, por ello se denomina en dos tipos:</p>
-* **Software genérico:** Se desarrolla para ser vendido a multiples clientes como Word, Google chrome, etc.
-* **Software a medida:** Se desarrolla bajo demanda de un cliente.
-<p>El software nuevo puede ser creado desarrollando nuevos programas, configurando sistemas de software genérico o reutilizando software existente.</p>
+<h2>Objetivos</h2>
+<hr>
 
-<h2>¿Qué es ingeniería de software?</h2>
-<p>Es una disiplina de la ingeniería que abarca cada aspecto en cuanto al desarrollo de software, los ingenieros de software saben que para ser un buen profesional deben:</p>
-* Adoptar un enfoque sistemático para llevar a cabo su trabajo
-* Utilizar las herramientas y técnicas apropiadas para resolver un problema planteado, todo esto de a cuerdo con las restricciones de desarrollo y recursos disponibles.
+* Conocer y dominar la teoría acerca del ciclo de vida del software.
+
+* Analizar los conceptos del ciclo de vida del software
+
+* Especificar los procesos para el ciclo de vida del software
+
+
+<h2 id="cic">Ciclo de vida del software</h2>
+<hr>
+<div><img src="https://static.platzi.com/media/user_upload/Pruebas-ciclo-835002f6-962a-4c8c-9512-cfdee1a5db13.jpg" alt="Ciclo básico del software - Platzi">
+<p style="font-style: italic;">Fuente: <a href="https://platzi.com/clases/1421-pruebas-software/15303-ciclo-de-vida-del-software/">Platzi</a></p></div>
+<p>Un software debe cumplir con algunos requisitos para poder ser categorizado como un programa de calidad por ello, el
+ciclo de vida del software es un proceso que se lleva a cabo con el fin de elaborar, entregar y hacer evolucionar el
+programa.</p>
+<p>Para el proceso mencionado se definen algunas fases esenciales para validar el desarrollo del software, en otras
+palabras, esas fases son importantes para garantizar que el software cumpla con los más altos estándares.</p>
+<h3 id="proc">Procesos para el ciclo de vida del software</h3>
+<p>Para detectar errores lo antes posible e impedir problemas mucho más complejos de resolver el ciclo de vida de un
+software, se propone los siguientes procedimientos:</p>
+
+* **Definición de objetivos:** En esta fase se especifica la finalidad del proyecto y el panel estratégico que se llevará a cabo para el desarrollo.
+
+* **Análisis de los requisitos y su viabilidad:** Se trata de recopilar, examinar y formular los requisitos de un cliente además de analizar alguna restricción que se pueda aplicar.
+
+* **Diseño general:** Se especifican los requisitos generales con respecto a la arquitectura del proyecto.
+
+* **Diseño en detalle:** Se define de manera precisa todos los subconjuntos que se emplearan en el software.
+
+* **Programación e implementación:** Elegir un lenguaje de programación que se adapte más al proyecto para crear el software y sus funciones.
+
+* **Prueba de unidad:** Garantizar la buena implementación de los subconjuntos o funciones del proyecto por medio de pruebas individuales.
+
+* **Integración:** Garantizar la implementación de cada función del proyecto acompañada de su correcta y correspondiente documentación.
+
+* **Prueba beta:** Garantiza el funcionamiento del software y el cumplimiento de cada objetivo planteado en un inicio.
+
+* **Documentación:** Se documenta la información necesaria para los usuarios y futuros desarrollos.
+
+* **Implementación:** Lanzamiento público del proyecto.
+
+* **Mantenimiento:** Corresponde a las respectivas actualizaciones para corregir errores.
+
+
 
 
 <hr>
-<h3>Fuente</h3>
-* Dr. Tello, [Conceptos básicos de ingeniería de software][f1].
+<h3>Fuentes</h3>
+
+* Ecured, [Ciclo de vida del software][f1].
+
+* Villagomez v. [Ciclo de vida del software][f2].
+
+* Platzi, [Ciclo de vida del software][f3].
+
 <hr>
 <h4>Sigueme en <a href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
 
-[f1]: https://www.tamps.cinvestav.mx/~ertello/swe/sesion01.pdf
+[f1]: https://www.ecured.cu/index.php?title=Ciclo_de_vida_del_software
+[f2]: https://es.ccm.net/contents/223-ciclo-de-vida-del-software#:~:text=vida%20del%20software-,Ciclo%20de%20vida%20del%20'software',inicial%20hasta%20la%20fase%20final.&text=El%20ciclo%20de%20vida%20b%C3%A1sico,papel%20en%20la%20estrategia%20global.
+[f3]: https://platzi.com/clases/1421-pruebas-software/15303-ciclo-de-vida-del-software/
 [gh]: https://github.com/tomvargas
