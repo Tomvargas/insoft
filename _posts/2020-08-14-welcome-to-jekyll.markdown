@@ -6,14 +6,15 @@ author: Tomas Vargas
 permalink: /posts/definiciones
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
-Publicado por: [Tomas Vargas][gh] 
+
+<p>Pubicado por: <a class="aa" href="https://github.com/tomvargas">Tomás vargas</a></p> 
 
 <h1>INGENIERÍA DE SOFTWARE</h1>
 
 <hr>
 <h2>Atajos</h2>
-<p> <a href="#l1">> Software</a></p>
-<p> <a href="#l2">> Ingeniería de software</a></p>
+<p> <a class="aa" href="#l1">> Software</a></p>
+<p> <a class="aa" href="#l2">> Ingeniería de software</a></p>
 <hr>
 
 <H2>Objetivos del área</H2>
@@ -47,10 +48,7 @@ Publicado por: [Tomas Vargas][gh]
 <h3>Fuente</h3>
 
 
-* Dr. Tello, [Conceptos básicos de ingeniería de software][f1].
+* <p>Dr. Tello, <a class="aa" href="https://www.tamps.cinvestav.mx/~ertello/swe/sesion01.pdf">Conceptos básicos de ingeniería de software.</a></p>
 
 <hr>
-<h4>Sigueme en <a href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
-
-[f1]: https://www.tamps.cinvestav.mx/~ertello/swe/sesion01.pdf
-[gh]: https://github.com/tomvargas
+<h4>Sigueme en <a class="aa" href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>

@@ -6,7 +6,7 @@ author: Tomas Vargas
 permalink: /posts/vida-software
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
-Publicado por: [Tomas Vargas][gh] 
+<p>Publicado por: <a class="aa" href="https://github.com/tomvargas">Tomas Vargas</a></p>
 
 <h1>CICLO DE VIDA DEL SOFTWARE</h1>
 <hr> 
@@ -16,8 +16,8 @@ las funciones del software evaluado, como usarlo, recomendaciones para los usuar
 para el usuario.</p>
 <hr>
 <h2>Atajos</h2>
-<p> <a href="#cic">> Ciclo de vida del software</a></p>
-<p> <a href="#proc">> Procesos</a  ></p>
+<p> <a class="aa" href="#cic">> Ciclo de vida del software</a></p>
+<p> <a class="aa" href="#proc">> Procesos</a  ></p>
 <hr>
 <p>Actualmente en las carreras relacionadas al desarrollo de software, la mayoría de estudiantes que piensan crear un
 programa creen que programarlo basta para culminar el proyecto propuesto, sin embargo todo tiene su evaluación con
@@ -44,7 +44,7 @@ desarrollo.</p>
 <h2 id="cic">Ciclo de vida del software</h2>
 <hr>
 <div><img src="https://static.platzi.com/media/user_upload/Pruebas-ciclo-835002f6-962a-4c8c-9512-cfdee1a5db13.jpg" alt="Ciclo básico del software - Platzi">
-<p style="font-style: italic;">Fuente: <a href="https://platzi.com/clases/1421-pruebas-software/15303-ciclo-de-vida-del-software/">Platzi</a></p></div>
+<p style="font-style: italic;">Fuente: <a class="aa" href="https://platzi.com/clases/1421-pruebas-software/15303-ciclo-de-vida-del-software/">Platzi</a></p></div>
 <p>Un software debe cumplir con algunos requisitos para poder ser categorizado como un programa de calidad por ello, el
 ciclo de vida del software es un proceso que se lleva a cabo con el fin de elaborar, entregar y hacer evolucionar el
 programa.</p>
@@ -81,17 +81,12 @@ software, se propone los siguientes procedimientos:</p>
 
 <hr>
 <h3>Fuentes</h3>
+* <p>Ecured, <a class="aa" href="https://www.ecured.cu/index.php?title=Ciclo_de_vida_del_software">Ciclo de vida del software. </a></p>
 
-* Ecured, [Ciclo de vida del software][f1].
+* <p>Villagomez v. <a class="aa" href="https://es.ccm.net/contents/223-ciclo-de-vida-del-software#:~:text=vida%20del%20software-,Ciclo%20de%20vida%20del%20'software',inicial%20hasta%20la%20fase%20final.&text=El%20ciclo%20de%20vida%20b%C3%A1sico,papel%20en%20la%20estrategia%20global.">Ciclo de vida del software.</a></p>
 
-* Villagomez v. [Ciclo de vida del software][f2].
-
-* Platzi, [Ciclo de vida del software][f3].
+* <p>Platzi,<a class="aa" href="https://platzi.com/clases/1421-pruebas-software/15303-ciclo-de-vida-del-software/">Ciclo de vida del software.</a></p>
 
 <hr>
-<h4>Sigueme en <a href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
+<h4>Sigueme en <a class="aa" href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
 
-[f1]: https://www.ecured.cu/index.php?title=Ciclo_de_vida_del_software
-[f2]: https://es.ccm.net/contents/223-ciclo-de-vida-del-software#:~:text=vida%20del%20software-,Ciclo%20de%20vida%20del%20'software',inicial%20hasta%20la%20fase%20final.&text=El%20ciclo%20de%20vida%20b%C3%A1sico,papel%20en%20la%20estrategia%20global.
-[f3]: https://platzi.com/clases/1421-pruebas-software/15303-ciclo-de-vida-del-software/
-[gh]: https://github.com/tomvargas

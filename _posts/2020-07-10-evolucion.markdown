@@ -6,16 +6,18 @@ author: Tomas Vargas
 permalink: /posts/evolucion-y-crisis
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
-Publicado por: [Tomas Vargas][gh] 
+ 
+<p>Publicado por: <a class="aa" href="https://github.com/tomvargas">Tomas Vargas</a></p>
+
 <h1>LA EVOLUCIÓN DEL SOFTWARE</h1>
 
 <hr>
 <h2>Atajos</h2>
-<p> <a href="#l1">> Primeros años del software</a></p>
-<p> <a href="#l2">> Implementación del software con el hardware</a  ></p>
-<p> <a href="#l3">> Unix</a></p>
-<p> <a href="#l4">> Actualidad</a></p>
-<p> <a href="#l5">> Crisis del Software</a></p>
+<p> <a class="aa" href="#l1">> Primeros años del software</a></p>
+<p> <a class="aa" href="#l2">> Implementación del software con el hardware</a  ></p>
+<p> <a class="aa" href="#l3">> Unix</a></p>
+<p> <a class="aa" href="#l4">> Actualidad</a></p>
+<p> <a class="aa" href="#l5">> Crisis del Software</a></p>
 <hr>
 
 <p>En la actualidad el software esta casi en todos lados, en los televisores, los celulres, las computadoras e incluso en las refrigerdoras
@@ -74,12 +76,12 @@ Publicado por: [Tomas Vargas][gh]
 <hr>
 <h3>Fuentes</h3>
 
-* esunix.es, [Historia del software][f1].
+* <p>esunix.es, <a class="aa" href="https://www.esunix.es/index.php/novato/software/historia-del-software">Historia del software.</a></p>
+
+<p><a> </a></p>
 
 * Angel Ortega, Material de clases. 
 
 <hr>
-<h4>Sigueme en <a href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
+<h4>Sigueme en <a class="aa" href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a></h4>
 
-[f1]: https://www.esunix.es/index.php/novato/software/historia-del-software
-[gh]: https://github.com/tomvargas
