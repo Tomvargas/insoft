@@ -9,7 +9,7 @@ permalink: /posts/vida-software
 Publicado por: [Tomas Vargas][gh] 
 
 <h1>CICLO DE VIDA DEL SOFTWARE</h1>
-<hr>
+<hr> 
 <p>Es importante conocer la teoría de cada cosa, pues incluso un programa de computación con sus debidos márgenes de
 calidad o usabilidad posee su respectiva documentación que en este caso vendría a ser la parte teórica donde muestran
 las funciones del software evaluado, como usarlo, recomendaciones para los usuarios y aun más cosas que sirven de guía
