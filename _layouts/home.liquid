@@ -30,17 +30,20 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
+      <hr>
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}<br>- {{ post.author }}</span>
-        <h3>
+      <h3>
           <a class="post-link aa" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+        <span class="post-meta">{{ post.date | date: date_format }}<br>- {{ post.author }}</span>
+        
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      <hr>
       {%- endfor -%}
     </ul>
 
@@ -63,5 +66,5 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
-
+<h3>Sigueme en <a class="aa" href="https://github.com/tomvargas" target="_blank"><i class="fab fa-github"></i> Ghithub</a> - Enviame un mensaje <a class="aa" href="mailto:tomvargasd@gmail.com">tomvargasd@gmail.com</a></h3>
 </div>
