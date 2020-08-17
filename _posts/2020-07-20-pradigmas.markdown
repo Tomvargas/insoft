@@ -3,7 +3,7 @@ layout: default
 title:  "Paradigmas del software"
 date:   2020-07-20 13:0:33 -0500
 author: Tomas Vargas
-permalink: /posts/vida-software
+permalink: /posts/paradigmas
 ---
 <script src="https://kit.fontawesome.com/7316530f41.js" crossorigin="anonymous"></script>
 <p>Publicado por: <a class="aa" href="https://github.com/tomvargas">Tomas Vargas</a></p>
