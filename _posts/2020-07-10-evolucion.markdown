@@ -13,11 +13,17 @@ permalink: /posts/evolucion-y-crisis
 
 <hr>
 <h2>Atajos</h2>
-<p> <a class="aa" href="#l1">> Primeros años del software</a></p>
-<p> <a class="aa" href="#l2">> Implementación del software con el hardware</a  ></p>
-<p> <a class="aa" href="#l3">> Unix</a></p>
-<p> <a class="aa" href="#l4">> Actualidad</a></p>
-<p> <a class="aa" href="#l5">> Crisis del Software</a></p>
+
+* <p> <a class="aa" href="#l1"> Primeros años del software</a></p>
+
+* <p> <a class="aa" href="#l2"> Implementación del software con el hardware</a  ></p>
+
+* <p> <a class="aa" href="#l3"> Unix</a></p>
+
+* <p> <a class="aa" href="#l4"> Actualidad</a></p>
+
+* <p> <a class="aa" href="#l5"> Crisis del Software</a></p>
+
 <hr>
 
 <p>En la actualidad el software esta casi en todos lados, en los televisores, los celulres, las computadoras e incluso en las refrigerdoras

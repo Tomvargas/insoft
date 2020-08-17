@@ -16,8 +16,11 @@ las funciones del software evaluado, como usarlo, recomendaciones para los usuar
 para el usuario.</p>
 <hr>
 <h2>Atajos</h2>
-<p> <a class="aa" href="#cic">> Ciclo de vida del software</a></p>
-<p> <a class="aa" href="#proc">> Procesos</a  ></p>
+
+* <p> <a class="aa" href="#cic"> Ciclo de vida del software</a></p>
+
+* <p> <a class="aa" href="#proc"> Procesos</a  ></p>
+
 <hr>
 <p>Actualmente en las carreras relacionadas al desarrollo de software, la mayoría de estudiantes que piensan crear un
 programa creen que programarlo basta para culminar el proyecto propuesto, sin embargo todo tiene su evaluación con

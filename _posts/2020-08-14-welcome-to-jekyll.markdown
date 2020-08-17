@@ -13,8 +13,11 @@ permalink: /posts/definiciones
 
 <hr>
 <h2>Atajos</h2>
-<p> <a class="aa" href="#l1">> Software</a></p>
-<p> <a class="aa" href="#l2">> Ingeniería de software</a></p>
+
+* <p> <a class="aa" href="#l1"> Software</a></p>
+
+* <p> <a class="aa" href="#l2"> Ingeniería de software</a></p>
+
 <hr>
 
 <H2>Objetivos del área</H2>
